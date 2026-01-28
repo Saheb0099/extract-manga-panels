@@ -1,0 +1,17 @@
+# Core AI Engines
+torch
+numpy
+pillow
+
+# The Model "Brain" (Version locked for MAGI v2 compatibility)
+transformers==4.35.2
+
+# Math & Geometry Helpers (Required by MAGI internal code)
+timm
+einops
+pulp
+scipy
+shapely
+networkx
+matplotlib
+huggingface_hub

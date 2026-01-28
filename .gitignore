@@ -1,0 +1,17 @@
+# --- BLOCK LIST ---
+# The Model Weights (CRITICAL)
+magiv2/pytorch_model.bin
+
+# Virtual Environment
+venv/
+.env
+
+# Input and Output Images
+input_manga/
+extracted_panels/
+input_pages/
+
+# System Files
+.DS_Store
+__pycache__/
+*.pyc
